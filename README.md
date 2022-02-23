@@ -2,7 +2,7 @@
 
 
 
-<img src="./assets/logo.png" alt="exemplo imagem">
+<img src="./assets/logoyoga.png" alt="exemplo imagem">
 
 Resultado do projeto Yoga Interface - Tela de Login
 
